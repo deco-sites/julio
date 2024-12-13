@@ -7,8 +7,9 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
-      "description": "This text is entirely editable, tailor it freely."
+      "title": "<p>Oi :)</p>",
+      "description": "as long as you're learning you're not failing",
+      "placement": "left"
     },
     {
       "__resolveType": "site/sections/MainPost.tsx",
